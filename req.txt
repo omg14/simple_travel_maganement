@@ -1,0 +1,3 @@
+# simple_travel_maganement
+
+GNU GCC C11 5.1.0 or later
